@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/user-directory/static/css/main.11d7c6ab.chunk.css",
+    "main.js": "/user-directory/static/js/main.8bc2d34c.chunk.js",
+    "main.js.map": "/user-directory/static/js/main.8bc2d34c.chunk.js.map",
+    "runtime-main.js": "/user-directory/static/js/runtime-main.4bd5c92f.js",
+    "runtime-main.js.map": "/user-directory/static/js/runtime-main.4bd5c92f.js.map",
+    "static/css/2.658248ec.chunk.css": "/user-directory/static/css/2.658248ec.chunk.css",
+    "static/js/2.ed46514c.chunk.js": "/user-directory/static/js/2.ed46514c.chunk.js",
+    "static/js/2.ed46514c.chunk.js.map": "/user-directory/static/js/2.ed46514c.chunk.js.map",
+    "index.html": "/user-directory/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/user-directory/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.11d7c6ab.chunk.css.map": "/user-directory/static/css/main.11d7c6ab.chunk.css.map",
+    "static/js/2.ed46514c.chunk.js.LICENSE.txt": "/user-directory/static/js/2.ed46514c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/user-directory/static/media/dot-grid.64dcb176.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd5c92f.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.ed46514c.chunk.js",
+    "static/css/main.11d7c6ab.chunk.css",
+    "static/js/main.8bc2d34c.chunk.js"
+  ]
+}
