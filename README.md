@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# User Directory
+
+This simple application is an employee directory app populated with randomized users via [Random User Generator](https://randomuser.me/). User Directory uses React to create data that's easily searchable and sortable, so it's easy to find a particular person or a group with commonalities by just clicking!
+
+![User Directory!](user-dir.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+You can also view the live deployed version at [karajsch.github.io/user-directory/](https://karajsch.github.io/user-directory/)
 
 ### `npm test`
 
