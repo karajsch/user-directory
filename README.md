@@ -12,6 +12,39 @@ You can clone the repo and runs the app in the development mode from your CLI by
 
 The live deployed link is [karajsch.github.io/user-directory/](https://karajsch.github.io/user-directory/)
 
+## Structure of the App
+
+```bash
+
+├── README.md
+├── build
+|  ├── asset-manifest.json
+|  ├── favicon.ico
+|  ├── index.html
+|  ├── manifest.json
+|  ├── robots.txt
+|  └── static
+├── package-lock.json
+├── package.json
+├── public
+|  ├── favicon.ico
+|  ├── index.html
+|  ├── manifest.json
+|  └── robots.txt
+├── src
+|  ├── App.js
+|  ├── components
+|  |  ├── EmployeeList.js
+|  |  ├── Header.js
+|  |  └── style.css
+|  ├── imgs
+|  |  └── dot-grid.png
+|  ├── index.js
+|  └── utils
+|     └── API.js
+└── user-dir.gif
+```
+
 ## Tools
 
 - [React](https://reactjs.org/)
