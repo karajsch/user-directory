@@ -21,7 +21,7 @@ class EmployeeList extends React.Component {
             first: user.name.first,
             last: user.name.last,
             email: user.email,
-            username: user.login.username,
+            phone: user.phone,
             image: user.picture.medium,
             city: user.location.city,
             state: user.location.state,
@@ -66,7 +66,7 @@ class EmployeeList extends React.Component {
               {/* using template literal to make email addresses dynamic */}
               <a href={`mailto:${user.email}`}>{user.email}</a>
             </td>
-            <td className="align-middle">{user.username}</td>
+            <td className="align-middle">{user.phone}</td>
             <td className="align-middle">{user.city}</td>
             <td className="align-middle">{user.state}</td>
             <td className="align-middle">{user.country}</td>
@@ -146,10 +146,10 @@ class EmployeeList extends React.Component {
                 </th>
                 <th scope="col">
                   <span
-                    className={this.employeeSorter("username")}
-                    onClick={() => this.handleSortDirectionChange("username")}
+                    className={this.employeeSorter("phone")}
+                    onClick={() => this.handleSortDirectionChange("phone")}
                   >
-                    Username
+                    Phone
                   </span>
                 </th>
                 <th scope="col">
